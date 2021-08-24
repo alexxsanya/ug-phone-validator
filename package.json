@@ -1,0 +1,29 @@
+{
+  "name": "ug_phone_validator",
+  "version": "1.0.0",
+  "description": "A lite phone number validator for Ugandan telecom numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexxsanya/ug-phone-validator.git"
+  },
+  "keywords": [
+    "npm",
+    "validate phone",
+    "ugandan phone validator",
+    "phone validator",
+    "phone numbers",
+    "validate ugandan msisdn",
+    "mobile",
+    "validator"
+  ],
+  "author": "alexxsanya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexxsanya/ug-phone-validator/issues"
+  },
+  "homepage": "https://github.com/alexxsanya/ug-phone-validator#readme"
+}
