@@ -30,7 +30,7 @@ Here is the implementation:
 
 ```js
 
-const {validateUGPhone} = require('ug_phone_validator')
+const {validateUGPhone} = require('ug-phone-validator')
 
 validateUGPhone("+256772100100") //returns JSON object
 validateUGPhone("256772100100") //returns JSON object

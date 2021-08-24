@@ -1,5 +1,5 @@
 {
-  "name": "ug_phone_validator",
+  "name": "ug-phone-validator",
   "version": "1.0.0",
   "description": "A lite phone number validator for Ugandan telecom numbers",
   "main": "index.js",
