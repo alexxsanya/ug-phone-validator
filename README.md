@@ -1,4 +1,4 @@
-## Validation of Uganda Phone Number
+## A lite phone validator for Ugandan numbers
 
 This is a lite package to validate ugandan phone numbers based on the formats set by Uganda Communication Commission (UCC)  as in this [link](https://www.ucc.co.ug/files/downloads/The%20Uganda%20National%20Numbering%20Plan%20%28Under%20review%29.pdf)
 
@@ -42,7 +42,7 @@ validateUGPhone("772100100") //returns JSON object
 ### valid phone number response
 ```JSON
     {
-    "phone": '772100100',
+    "phone": "772100100",
     "valid": true,
     "info": "Is valid ugandan phone number",
     "telco": "MTN Uganda",
